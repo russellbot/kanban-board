@@ -121,7 +121,7 @@ function updateItem(id, column) {
       selectedArray[id] = selectedColumnEl[id].textContent;    
     }
     updateDOM();
-  }
+  }  
 }
 
 // Add to Column List, Reset Textbox
